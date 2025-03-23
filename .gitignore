@@ -1,0 +1,7 @@
+composer.phar
+/vendor/
+/config/*.json
+.env
+.idea
+/logs/*
+.php-cs-fixer.cache
